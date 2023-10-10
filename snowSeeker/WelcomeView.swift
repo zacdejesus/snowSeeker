@@ -2,7 +2,7 @@
 //  WelcomeView.swift
 //  SnowSeeker
 //
-//  Created by Paul Hudson on 23/01/2022.
+//  Created by Z on 10/10/2023.
 //
 
 import SwiftUI

@@ -27,10 +27,10 @@ struct ResortView: View {
 
                 HStack {
                     if sizeClass == .compact && typeSize > .large {
-                        VStack(spacing: 10) { ResortDetailsView(resort: resort) }
+                   //     VStack(spacing: 10) { ResortDetailsView(resort: resort) }
                         VStack(spacing: 10) { SkiDetailsView(resort: resort) }
                     } else {
-                        ResortDetailsView(resort: resort)
+                       // ResortDetailsView(resort: resort)
                         SkiDetailsView(resort: resort)
                     }
                 }

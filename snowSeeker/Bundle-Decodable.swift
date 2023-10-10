@@ -1,8 +1,8 @@
 //
-//  Bundle-Decodable.swift
-//  SnowSeeker
+//  Bundle.swift
+//  snowSeeker
 //
-//  Created by Paul Hudson on 23/01/2022.
+//  Created by Z on 09/10/2023.
 //
 
 import Foundation

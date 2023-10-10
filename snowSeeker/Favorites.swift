@@ -2,7 +2,7 @@
 //  Favorites.swift
 //  SnowSeeker
 //
-//  Created by Paul Hudson on 25/01/2022.
+//  Created by z on 10/10/2023.
 //
 
 import Foundation
