@@ -2,7 +2,7 @@
 //  SkiDetailsView.swift
 //  SnowSeeker
 //
-//  Created by Paul Hudson on 23/01/2022.
+//  Created by z on 23/01/2022.
 //
 
 import SwiftUI
